@@ -1,0 +1,128 @@
+#head{
+	background:linear-gradient(to bottom left,white 25%,#12F4DC 75%);
+	color:black;
+	background-color:#12F4DC;
+	border:5px #7A7D82 ridge;
+	text-align:center;
+}
+#search{
+	 text-align:right;
+}
+#searchlogo
+{
+	width:140px;
+	height:23px;
+	background: white url('file:///F:/HTML/image/LogoMakr.png') right center no-repeat;
+}
+#font
+{
+font-size:75%;
+}
+.button
+{
+	text-align:right;
+}
+#dashboard
+{
+	width:auto;
+	height:630px;
+	border:3px black ridge;
+	background-image:url('file:///F:/HTML/image/picture-1.jpg');
+}	
+.button
+{
+	text-align:right;
+}#imagebody
+{
+	width:auto;
+	height:1080px;
+}
+#left
+{
+width: 350px;
+height: 1070px;
+border: 7px blue ridge;
+float:left;
+margin:0px 30px 0px 200px;
+border-radius:15px;
+text-align:center;
+}
+#right
+{
+width: 350px;
+height: 1070px;
+border: 7px black ridge;
+float:right;
+margin:0px 200px 0px 3px;
+text-align:center;
+border-radius:15px;
+}
+.font
+{
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+}
+#ftc
+{
+	width:auto;
+	height:300px;
+	margin-top:20px;
+	
+}
+#boxleft
+{
+	float:left;
+	width:240px;
+	height:200px;
+	border:3px blue solid;
+	margin-left:200px;
+	text-align:center;
+	
+}
+#boxcenter
+{
+	float:left;
+	height:200px;
+	width:240px;
+	border:3px yellow solid;
+	margin-left:100px;
+	text-align:center;
+}
+#boxright
+{
+	float:right;
+	width:240px;
+	height:200px;
+	border:3px red solid;
+	margin-right:180px;
+	text-align:center;
+	
+}
+#business
+{
+    
+	height:200px;
+	width:240px;
+	border:5px green solid;
+	margin-left:200px;
+	text-align:center;
+	margin-bottom:20px;
+}
+.font1
+{
+	font-size:20px;
+}
+.font1 ul li a:hover
+{
+	color:red;
+	font-size:25px;
+}
+.foot{
+     width:auto;
+	 height:150px;
+	 background:blue;
+	 color:white;
+	 padding-top:10px;
+	 padding-left:20px;
+}
